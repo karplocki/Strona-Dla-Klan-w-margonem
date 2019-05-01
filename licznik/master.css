@@ -1,0 +1,65 @@
+body{
+  background-color: #252846;
+}
+#pat{
+  background-color: #00001a;
+  width:150px;
+  height: 300px;
+  position: absolute;
+  left: 30px;
+  border: 3px solid black;
+}
+#pat img{
+  margin-left: 25px;
+}
+#p1{
+  color:white;
+  margin-left: 15px;
+  font-size: 20px;
+}
+#p2{
+  color:white;
+  margin-left: 15px;
+  font-size: 20px;
+}
+
+
+#karm{
+  background-color: #00001a;
+  width:150px;
+  height: 300px;
+  position: absolute;
+  left: 210px;
+  border: 3px solid black;
+}
+#karm img{
+  margin-left: 45px;
+  margin-top: 30px;
+}
+
+#orla{
+  background-color: #00001a;
+  width:150px;
+  height: 300px;
+  position: absolute;
+  left: 390px;
+  border: 3px solid black;
+}
+#orla img{
+  margin-left: 10px;
+  margin-top: 30px;
+}
+
+#zlod{
+  background-color: #00001a;
+  width:150px;
+  height: 300px;
+  position: absolute;
+  left: 30px;
+  top: 340px;
+  border: 3px solid black;
+}
+#zlod img{
+  margin-left: 50px;
+  margin-top: 30px;
+}

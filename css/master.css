@@ -1,0 +1,116 @@
+body{
+  background-color: #252846;
+}
+#test{
+  height: 34px;
+  width: 34px;
+  background-color: red;
+}
+#b1{
+  height: 56px;
+  width: 168px;
+  background-color: #FFFFFF;
+  position: absolute;
+  left: 139px;
+  top: 356px;
+  border: 4px solid #707070;
+  font-size: 32px;
+  color: #707070;
+  text-decoration: none;
+  text-align: center;
+  vertical-align: bottom;
+}
+#b1 p{
+  margin: 0px;
+  margin-top: 8px;
+}
+#b2{
+  height: 56px;
+  width: 168px;
+  background-color: #FFFFFF;
+  position: absolute;
+  left: 323px;
+  top: 356px;
+  border: 4px solid #707070;
+  font-size: 32px;
+  color: #707070;
+  text-decoration: none;
+  text-align: center;
+  vertical-align: bottom;
+}
+#b2 p{
+  margin: 0px;
+  margin-top: 8px;
+}
+#b3{
+  height: 56px;
+  width: 168px;
+  background-color: #FFFFFF;
+  position: absolute;
+  left: 507px;
+  top: 356px;
+  border: 4px solid #707070;
+  font-size: 32px;
+  color: #707070;
+  text-decoration: none;
+  text-align: center;
+  vertical-align: bottom;
+}
+#b3 p{
+  margin: 0px;
+  margin-top: 8px;
+}
+#b4{
+  height: 56px;
+  width: 168px;
+  background-color: #FFFFFF;
+  position: absolute;
+  left: 691px;
+  top: 356px;
+  border: 4px solid #707070;
+  font-size: 32px;
+  color: #707070;
+  text-decoration: none;
+  text-align: center;
+  vertical-align: bottom;
+}
+#b4 p{
+  margin: 0px;
+  margin-top: 8px;
+}
+#b5{
+  height: 56px;
+  width: 168px;
+  background-color: #FFFFFF;
+  position: absolute;
+  left: 875px;
+  top: 356px;
+  border: 4px solid #707070;
+  font-size: 32px;
+  color: #707070;
+  text-decoration: none;
+  text-align: center;
+  vertical-align: bottom;
+}
+#b5 p{
+  margin: 0px;
+  margin-top: 8px;
+}
+#b6{
+  height: 56px;
+  width: 168px;
+  background-color: #FFFFFF;
+  position: absolute;
+  left: 1059px;
+  top: 356px;
+  border: 4px solid #707070;
+  font-size: 32px;
+  color: #707070;
+  text-decoration: none;
+  text-align: center;
+  vertical-align: bottom;
+}
+#b6 p{
+  margin: 0px;
+  margin-top: 8px;
+}
